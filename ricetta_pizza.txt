@@ -3,4 +3,3 @@ Pomodoro
 Mozzarella
 Prosciutto
 Lievito
-Farina

@@ -3,6 +3,5 @@ Pomodoro
 Mozzarella
 Basilico
 Lievito
-Farina
 Acqua
 Istruzioni
